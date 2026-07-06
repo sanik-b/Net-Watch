@@ -35,17 +35,17 @@ python network_analyzer.py
 3. Click "Select"
 
 ### Step 2: Start Capture
-1. Click "▶ Start Capture" button
+1. Click " Start Capture" button
 2. Watch packets appear in real-time
 
 ### Step 3: Analyze Traffic
 - **View Packets**: See captured packets in the main list
 - **Packet Details**: Click any packet to see detailed information
 - **Statistics**: Monitor packet counts in the dashboard
-- **Anomalies**: Look for ⚠️ marks next to suspicious packets
+- **Anomalies**: Look for  marks next to suspicious packets
 
 ### Step 4: Stop & Export
-1. Click "⏹ Stop Capture" when done
+1. Click " Stop Capture" when done
 2. Use "Clear" button to reset
 3. Data is automatically saved for this session
 
