@@ -91,3 +91,7 @@ python network_analyzer.py
 ```
 
 That's it! Start analyzing your network traffic in minutes.
+
+## 🚀 Live Demo
+
+**[View Live Dashboard →](https://net-watch-bf4b.onrender.com/)**
